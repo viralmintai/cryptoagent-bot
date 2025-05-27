@@ -1,0 +1,1 @@
+# CryptoAgent Bot\nThis bot auto-generates NFT tasks and sends reports with QR donations.
